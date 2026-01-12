@@ -60,7 +60,7 @@ def process_photo(input_image, target_kb):
     return img, final_img, img_byte_arr.getvalue()
 
 # --- 3. PERSISTENT UI (Always Visible) ---
-st.title("🇮🇳 Indian PCC Application Photo Studio")
+st.title("Free Online Indian PCC Application Photo Converter")
 
 st.markdown("""
 <div class="compliance-box">
